@@ -1,0 +1,6 @@
+framework module Pods_ProductsNestingUsingDecoder_ProductsNestingUsingDecoderUITests {
+  umbrella header "Pods-ProductsNestingUsingDecoder-ProductsNestingUsingDecoderUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
